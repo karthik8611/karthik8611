@@ -17,7 +17,7 @@
 
 👨‍💻 All of my projects are available  [Here](https://github.com/karthik8611)
 
-📝 I regularly write articles on [Medium](https://medium.com/@mkarthik6768)
+<!--📝 I regularly write articles on [Medium](https://medium.com/@mkarthik6768)-->
 
 💬 Ask me about **Java**
 
