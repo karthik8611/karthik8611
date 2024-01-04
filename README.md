@@ -9,7 +9,7 @@
 
 🔭 I’m currently working on [software development](https://github.com/karthik8611)
 
-🌱 I’m currently learning **mern stack,SpringBoot,LLD**
+🌱 I’m currently learning **Full Stack Development**
 
 👯 I’m looking to collaborate on **open source projects**
 
@@ -25,7 +25,6 @@
 
  📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AwD-EnuthDvyFX9G3NeGRWw9oUqJbzeX/view?usp=sharing)
  
- ⚡ Fun fact **I Love to Code anytime**
 
 ## Programming Profiles
 <p align="left">
