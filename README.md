@@ -9,7 +9,7 @@
 
 🔭 I’m currently working on [software development](https://github.com/karthik8611)
 
-🌱 I’m currently learning **Full Stack Development**
+🌱 I’m currently learning **Software Development and Testing**
 
 👯 I’m looking to collaborate on **open source projects**
 
